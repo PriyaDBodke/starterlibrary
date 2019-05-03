@@ -1,0 +1,14 @@
+{
+   "name": "Temp_Google1",
+   "description": "Description for Temp_Google1.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "Temp_Google1",
+     "bullets": []
+   }
+ }
