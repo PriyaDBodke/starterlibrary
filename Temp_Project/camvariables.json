@@ -1,0 +1,12 @@
+{
+  "input_datatypes": [ ],
+  "input_namespaces": [ ],
+  "output_namespace": "",
+  "input_groups": [  {
+    "name": "Instances-google_compute_instance.default",
+    "label": "Instances - google_compute_instance.default"
+  } ],
+  "output_groups": [ ],
+  "template_input_params": [ ],
+  "template_output_params": [ ]
+}
